@@ -1,6 +1,6 @@
  # ----- Edit these Variables for your own Use Case ----- #
 $PASSWORD_FOR_USERS   = "Password1"
-$NUMBER_OF_ACCOUNTS_TO_CREATE = 1000
+$NUMBER_OF_ACCOUNTS_TO_CREATE = 1500
 # ------------------------------------------------------ #
 
 Function generate-random-name() {
